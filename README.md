@@ -1,9 +1,14 @@
-# Voron02
-Voron 0.2 configs (v0s1 --> 0.2)
+# Voron 0.2 Hardware
+Voron 0.2 configs 
+LDO Kit V0S1, converted to 0.2
 
-Started off as an LDO v0s1, converted to 0.2
+Might differ for other kits or sourced parts.
 
-Using CANBUS and SKR Pico (UART mode)
+#### Hardware:
+Steppers:
+ - (Extruder) LDO-36STH20-1004AHG(VRN) RevB
+ - (XY) LDO-35STH52-1504AH(VRN) RevB
+ - (Z) LDO-42STH25-1004CL200ET(VRN) RevD
 
 ## Installation
 Requires the following to be installed:
