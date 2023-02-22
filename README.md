@@ -5,7 +5,9 @@ LDO Kit V0S1, converted to 0.2
 Might differ for other kits or sourced parts.
 
 #### Hardware:
-Steppers:
+ - SKR Pico
+ - LDO Picobilical
+ - LDO Revo Hotend (ATC Semitec 104NT-4-R025H42G Thermistor)
  - (Extruder) LDO-36STH20-1004AHG(VRN) RevB
  - (XY) LDO-35STH52-1504AH(VRN) RevB
  - (Z) LDO-42STH25-1004CL200ET(VRN) RevD
