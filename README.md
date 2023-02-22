@@ -13,10 +13,12 @@ Might differ for other kits or sourced parts.
  - (Z) LDO-42STH25-1004CL200ET(VRN) RevD
 
 ## Installation
-Requires the following to be installed:
- - Klipper
- - Moonraker
- - Mainsail
- - Crowsnest
- - G-Code Shell Command
- - julianschill/klipper-led_effect
+Requires the following to be installed (Path to install from KIAUH specified):
+| Software | Where to find |
+| - | - |
+| Klipper | KIAUH: 1 -> 1 |
+| Moonraker | KIAUH: 1 -> 2 |
+| Fluidd | KIAUH: 1 -> 4 |
+| Crowsnest | KIAUH: 1 -> 10 |
+| G-Code Shell Command | KIAUH: 4 -> 8 |
+| julianschill/klipper-led_effect | https://github.com/julianschill/klipper-led_effect |
