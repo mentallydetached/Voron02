@@ -25,10 +25,10 @@ klipper_folder=~/klipper
 moonraker_folder=~/moonraker
 
 ### Path to your Mainsail folder, by default that is '~/mainsail'
-mainsail_folder=~/mainsail
+# mainsail_folder=~/mainsail
 
 ### Path to your Fluidd folder, by default that is '~/fluidd'
-#fluidd_folder=~/fluidd
+fluidd_folder=~/fluidd
 
 #####################################################################
 #####################################################################
@@ -64,7 +64,7 @@ grab_version(){
 # then update the command below to use the token. Run the command in your base directory and it will
 # handle auth. This should just be executed in your shell and not committed to any files or
 # Github will revoke the token. =)
-# git remote set-url origin https://XXXXXXXXXXX@github.com/EricZimmerman/Voron24Configs.git/
+# git remote set-url origin https://XXXXXXXXXXX@github.com/YourUsername/VoronConfig.git
 # Note that that format is for changing things after the repository is in use, vs initially
 
 push_config(){
