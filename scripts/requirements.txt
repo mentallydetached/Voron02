@@ -1,15 +1,9 @@
 optparse
-
 matplotlib
-
 re
-
 sys
-
 importlib
-
 os
-
 operator
 collections
 numpy
