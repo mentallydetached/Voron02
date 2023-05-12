@@ -47,6 +47,9 @@ export LC_ALL=C
 
 function plot_shaper_graph {
   local generator filename newfilename date axis
+  echo "Filename: ${filename}"
+  echo "Generator: ${generator}"
+  echo "Date: ${date}"
   generator="${KLIPPER_FOLDER}/scripts/calibrate_shaper.py"
   
   while read filename; do
